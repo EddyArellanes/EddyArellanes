@@ -146,5 +146,6 @@
   
 <!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eddyarellanes&show_icons=true&locale=en&layout=compact" alt="eddyarellanes" /></p>
--->
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eddyarellanes&show_icons=true&locale=en" alt="eddyarellanes" /></p>
+-->
