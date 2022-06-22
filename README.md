@@ -12,7 +12,14 @@
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
-<a align="center" href="https://app.daily.dev/EddyArellanes"><img src="https://api.daily.dev/devcards/26808ea0271e49338a5b5d834aec831b.png?r=jzg" width="200" alt="Eddy Arellanes's Dev Card"/></a>
+ <a href="https://api.daily.dev/EddyArellanes" target="_blank">
+    <img
+      width="300"
+      align="right"
+      src="https://api.daily.dev/devcards/26808ea0271e49338a5b5d834aec831b.png?r=jzg"
+      alt="alt="Eddy Arellanes's Dev Card"
+    />
+  </a>
 <p>
   <a href="https://dev.to/eddyarellanes" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="eddyarellanes" height="30" width="40" />
