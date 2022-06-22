@@ -16,15 +16,16 @@
     <img
       width="300"
       align="right"
-      src="https://api.daily.dev/devcards/26808ea0271e49338a5b5d834aec831b.png?r=jzg"
+      src="https://github.com/EddyArellanes/EddyArellanes/blob/main/devcard.svg"
       alt="alt="Eddy Arellanes's Dev Card"
     />
   </a>
 <p>
+<!--
   <a href="https://dev.to/eddyarellanes" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="eddyarellanes" height="30" width="40" />
   </a>
-
+-->
   <a href="https://twitter.com/eddyarellanes" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eddyarellanes" height="30" width="40" />
   </a>
