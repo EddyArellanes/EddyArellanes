@@ -6,12 +6,13 @@
 - 🌱 I’m currently learning **Deno, Vue3, Engineering Management**
 
 - ⚡ Fun fact **My First language was C++ but I have never used for Production stuff**
-
+<!--
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
+ BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
+<a align="center" href="https://app.daily.dev/EddyArellanes"><img src="https://api.daily.dev/devcards/26808ea0271e49338a5b5d834aec831b.png?r=jzg" width="200" alt="Eddy Arellanes's Dev Card"/></a>
 <p>
   <a href="https://dev.to/eddyarellanes" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="eddyarellanes" height="30" width="40" />
@@ -142,8 +143,6 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
   </a>
 </p>
-
-  
 <!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eddyarellanes&show_icons=true&locale=en&layout=compact" alt="eddyarellanes" /></p>
 
