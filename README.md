@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm <b>Eddy Arellanes</b></h1>
 <h3 align="center">A passionate to solve problems throught code</h3>
 
-- 🔭 I’m currently working at [Kavak](https://www.linkedin.com/company/kavakcom/)
-
-- 🌱 I’m currently learning **Deno, Vue3, Engineering Management**
-
-- ⚡ Fun fact **My First language was C++ but I have never used for Production stuff**
+- 🔭 I’m currently working at Microsoft
 <!--
 ### Blogs posts
  BLOG-POST-LIST:START -->
